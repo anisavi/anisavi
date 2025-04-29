@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Anis Avi 👋</h1>
+<h1 align="center">Anis Avi 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Tech+Explorer;+Code+Architect;+AI+Whisperer" alt="Typing SVG" />
@@ -45,7 +45,7 @@
 - GitHub: [anisavi](https://github.com/anisavi)  
 - LinkedIn: [https://bd.linkedin.com/in/anis-avi0007](https://bd.linkedin.com/in/anis-avi0007)  
 - Facebook: [https://facebook.com/Anis.Aavi](https://facebook.com/Anis.Aavi)  
-- Email: [your.email@domain.com]  
+- Email: [anisavi.cu@gmail.com](mailto:anisavi.cu@gmail.com)  
 
 ---
 
